@@ -5,4 +5,6 @@
 #
 
 keeps the stock of a store
+needs pygal so you can use all it's functionality, available here:
+http://pygal.org/en/stable/
 
