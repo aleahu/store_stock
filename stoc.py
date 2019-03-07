@@ -233,26 +233,6 @@ peste.graficprodus('martie')
 peste.fisap()
 
 
-"""
-imi cer scuze daca acele comentarii de mai sus in clasa/metode sunt in plus, am incercat sa explic pasii urmati pentru a urmari mai usor
-
-    --Leahu Alexandru--
-
-1. Implementati o solutie care sa returneze o proiectie grafica a intrarilor si iesirilor intr-o
-anumita perioada, pentru un anumit produs;	--pygal--  -> DONE
-
-2. Implementati o solutie care sa va avertizeze automat cand stocul unui produs este mai mic decat o 
-limita minima, predefinita per produs. Limita sa poata fi variabila (per produs). Preferabil sa 
-transmita automat un email de avertizare;   -> DONE 
-
-3. Creati o metoda cu ajutorul careia sa puteti transmite prin email diferite informatii(
-de exemplu fisa produsului) ; 	--SMTP--   -> DONE
-
-4. Creati doua metode noi, testatile si asigurativa ca functioneaza cu succes;  -> DONE
-
-5. Am imbunatatit metoda de iesire (eroare de design), inainte mergea sa am stoc pe minus, dar am facut in asa fel incat stocul sa nu scada sub 0 si sa te atentioneze ca nu ai destul stoc pentru iesire.
-
-"""
 
 
 
